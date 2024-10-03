@@ -3,14 +3,13 @@
   background-color: #fb6545;
 }
 
+.card {
+  border-style: solid;
+  border-color: #68d491;
+}
+
 #name, .nav, #about, #aboutcontent{
-  /* font-family: bebasneue;
-  src: url(../public/BebasNeue-Regular.ttf); */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 100px;
   color: #68d491;
-}
-
-#about {
-  background-color:#f1b8ab;
 }
