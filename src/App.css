@@ -3,13 +3,41 @@
   background-color: #fb6545;
 }
 
+button {
+  color: #68d491;
+  background-color: #b7e952;
+  border-color: rgb(104, 180, 247);
+}
+
 .card {
   border-style: solid;
   border-color: #68d491;
+  
+}
+
+#description {
+  color:#5fb480;
 }
 
 #name, .nav, #about, #aboutcontent{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 100px;
   color: #68d491;
+}
+
+.tile{
+  display:inline-block;
+  width: 30em;
+  height: 30em;
+  background-color: #e8d599;
+  text-align: justify;
+  text-align-last:center;
+}
+
+.name, #shop {
+  color:#68d491;
+}
+
+.media {
+  width: 300px;
 }

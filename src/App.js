@@ -3,6 +3,7 @@ import Cards from './components/Cards'
 import About from './components/About'
 
 
+
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,17 @@ function App() {
           src="https://i.ibb.co/KG1S7mx/yamlogo.png"
           alt="YamFarts Logo"
         />
+        <img 
+          id="logo"
+          src="https://i.ibb.co/KG1S7mx/yamlogo.png"
+          alt="YamFarts Logo"
+        />
+        <img 
+          id="logo"
+          src="https://i.ibb.co/KG1S7mx/yamlogo.png"
+          alt="YamFarts Logo"
+        />
+        <h1 id="shop">SHOP</h1>
         <div>
           < Cards />
        </div>
@@ -21,3 +33,5 @@ function App() {
 };
 
 export default App;
+
+
